@@ -1,0 +1,1 @@
+## NOC - Clean architecture - NodeJs - PostgreSql - Mongo - Docker - Typescript - Jest
